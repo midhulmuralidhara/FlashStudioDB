@@ -1,0 +1,10 @@
+F:\FlashStudioDB\FlashStudioDB\bin\Debug\FlashStudioDB.dacpac
+F:\FlashStudioDB\FlashStudioDB\bin\Debug\FlashStudioDB.dll
+F:\FlashStudioDB\FlashStudioDB\bin\Debug\FlashStudioDB.pdb
+F:\FlashStudioDB\FlashStudioDB\obj\Debug\FlashStudioDB.sqlprojAssemblyReference.cache
+F:\FlashStudioDB\FlashStudioDB\obj\Debug\Model.xml
+F:\FlashStudioDB\FlashStudioDB\obj\Debug\refactor.xml
+F:\FlashStudioDB\FlashStudioDB\obj\Debug\postdeploy.sql
+F:\FlashStudioDB\FlashStudioDB\obj\Debug\predeploy.sql
+F:\FlashStudioDB\FlashStudioDB\obj\Debug\FlashStudioDB.dll
+F:\FlashStudioDB\FlashStudioDB\obj\Debug\FlashStudioDB.pdb

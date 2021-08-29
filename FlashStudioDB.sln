@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "FlashStudioDB", "FlashStudioDB\FlashStudioDB.sqlproj", "{827CB3AF-E567-4BC2-A533-6B3A9AA6F1EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827CB3AF-E567-4BC2-A533-6B3A9AA6F1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827CB3AF-E567-4BC2-A533-6B3A9AA6F1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827CB3AF-E567-4BC2-A533-6B3A9AA6F1EB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{827CB3AF-E567-4BC2-A533-6B3A9AA6F1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827CB3AF-E567-4BC2-A533-6B3A9AA6F1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827CB3AF-E567-4BC2-A533-6B3A9AA6F1EB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F911B677-5D13-45D8-B258-ECFF9070ADD8}
+	EndGlobalSection
+EndGlobal
